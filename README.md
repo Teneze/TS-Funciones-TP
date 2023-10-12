@@ -33,7 +33,5 @@ Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript Func
 
 9- Abra el proyecto en Visual Studio Code y ejecute el archivo "index.html".
 
-## Instalación
-
 ## Realizado por
 [Ezequiel Tenerini](https://github.com/Teneze)
