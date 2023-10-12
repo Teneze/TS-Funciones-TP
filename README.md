@@ -23,7 +23,7 @@ Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript Func
 
 4- Descomprima el archivo.
 
-5- Ir hasta la ruta de instalación del proyecto.
+5- Ir a la ruta de instalación del proyecto.
 
 6- Abrir cmd desde la ruta anteriormente mencionada.
 
@@ -31,7 +31,7 @@ Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript Func
 
 8- Ejecutar el comando `npm run build` el cual permite compilar el codigo TypeScript y pasarlo a JavaScript.
 
-9- Abra el proyecto en Visual Studio Code o ejecute el archivo "index.html".
+9- Abra el proyecto en Visual Studio Code y ejecute el archivo "index.html".
 
 ## Instalación
 
