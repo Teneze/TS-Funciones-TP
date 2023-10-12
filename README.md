@@ -9,7 +9,7 @@
   </p>
 </div>
 
-# Trabajo Practico TypeScript - Funciones
+# Trabajo Practico - TypeScript Funciones
 
 Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript Funciones".
 
